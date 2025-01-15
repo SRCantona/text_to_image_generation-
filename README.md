@@ -15,9 +15,13 @@ Diffusion is a generative modeling technique that starts with random noise and i
 ## Models Used in This Comparison
 
 ### 1. `runwayml/stable-diffusion-v1-5`
-- **Purpose**: General-purpose text-to-image generation.
-- **Strengths**: High-quality outputs for a variety of styles and prompts.
-- **Usage**:
+- Type: General-purpose text-to-image diffusion model.
+- Description:
+This is an optimized version of Stable Diffusion designed for generating high-quality, diverse images from textual descriptions. It focuses on balancing quality and speed, making it suitable for professional and creative applications.
+- Use Cases:
+1. Creative content generation.
+2. Prototyping visual concepts.
+3. Generating photorealistic images.
   ```python
   from diffusers import StableDiffusionPipeline
   import torch
@@ -31,9 +35,13 @@ Diffusion is a generative modeling technique that starts with random noise and i
 - **Inference Time**: ~5-8 seconds per image on a modern GPU.
 
 ### 2. `CompVis/stable-diffusion-v1-4`
-- **Purpose**: General-purpose text-to-image generation (predecessor to v1-5).
-- **Strengths**: Similar to v1-5 but slightly less polished outputs.
-- **Inference Time**: Comparable to v1-5 (~5-8 seconds per image).
+- Type: Foundational text-to-image diffusion model.
+- Description:
+This is one of the earliest versions of Stable Diffusion, developed by the CompVis group. It serves as the base for subsequent models and is known for its efficiency in generating realistic and detailed images.
+- Use Cases:
+1. General text-to-image tasks.
+2. Research and experimentation.
+3. Applications where computational efficiency is a priority.
 
 ### 3. `stabilityai/stable-diffusion-2-1`
 - **Purpose**: Enhanced version with better quality and larger training dataset.
