@@ -21,7 +21,9 @@ In AI, diffusion transforms this concept into magic: starting with random noise 
 - **Use Cases**:  
   1. Creative content generation.  
   2. Prototyping visual concepts.  
-  3. Generating photorealistic images.  
+  3. Generating photorealistic images.
+     
+![image_0](https://github.com/user-attachments/assets/1784ee9c-5c31-4979-b72f-77e5fe16bca6)
 
 ---
 
@@ -31,7 +33,9 @@ In AI, diffusion transforms this concept into magic: starting with random noise 
 - **Use Cases**:  
   1. General text-to-image tasks.  
   2. Research and experimentation.  
-  3. Computationally efficient applications.  
+  3. Computationally efficient applications.
+     
+![image_0](https://github.com/user-attachments/assets/e0279876-b986-4462-ae93-7951867489ea)
 
 ---
 
@@ -41,7 +45,9 @@ In AI, diffusion transforms this concept into magic: starting with random noise 
 - **Use Cases**:  
   1. High-resolution image generation.  
   2. Complex visualizations.  
-  3. Professional design workflows.  
+  3. Professional design workflows.
+       
+![image_0](https://github.com/user-attachments/assets/be33f9c8-e89a-4193-b5a5-27d3c298ef9c)
 
 ---
 
@@ -51,7 +57,9 @@ In AI, diffusion transforms this concept into magic: starting with random noise 
 - **Use Cases**:  
   1. Artistic content creation.  
   2. Surreal or fantasy visuals.  
-  3. Concept art for games and media.  
+  3. Concept art for games and media.
+     
+![image_0](https://github.com/user-attachments/assets/4b1578d7-667c-419d-97a6-b0ff9f2b34fa)
 
 ---
 
@@ -61,7 +69,9 @@ In AI, diffusion transforms this concept into magic: starting with random noise 
 - **Use Cases**:  
   1. Anime-style character and scene generation.  
   2. Manga and graphic novel illustration.  
-  3. Personal and commercial anime art projects.  
+  3. Personal and commercial anime art projects.
+       
+![image_0](https://github.com/user-attachments/assets/435e5c28-c669-45b2-9b7c-84bcd3e43b73)
 
 ---
 
@@ -78,7 +88,7 @@ No matter your creative vision, there's a model tailored to your needs. Dive in,
 
 ---
 
-### Code to Get Started 💻
+### Code to Get Started or you could download "TTOI.ipynb" or "main.py" for more details 💻
 
 ```python
 from diffusers import StableDiffusionPipeline
