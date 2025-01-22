@@ -1,5 +1,5 @@
 
-# README: Exploring the World of Stable Diffusion Models 🌟
+# Exploring the World of Stable Diffusion Models 🌟
 
 This guide delves into the fascinating universe of Stable Diffusion models, comparing their unique strengths and purposes. Whether you're an artist, designer, researcher, or enthusiast, these models open the door to endless creative possibilities.
 
