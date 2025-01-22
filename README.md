@@ -79,12 +79,12 @@ In AI, diffusion transforms this concept into magic: starting with random noise 
 To achieve the best results with each model, I found that crafting specific and detailed prompts really made a difference. Here’s how I approached it for each model:
 
 runwayml/stable-diffusion-v1-5
-To get the best results, I used a detailed prompt like: "A tranquil forest path with sunlight streaming through tall, dense trees, creating a dappled light effect on the ground." This helped the model excel at photorealistic renderings, especially in natural environments. The model handled the realistic lighting and textures well, producing high-quality, balanced visuals. It’s perfect for generating landscapes, nature scenes, and other realistic imagery.
+To get the best results, I used a detailed prompt like: "A serene lake surrounded by towering mountains under a golden sunset, with reflections in the water." This helped the model excel at photorealistic renderings, especially in natural environments. The model handled the realistic lighting and textures well, producing high-quality, balanced visuals. It’s perfect for generating landscapes, nature scenes, and other realistic imagery.
 
 ![runwaymlstable-diffusion-v1-5](https://github.com/user-attachments/assets/dbd1966e-78be-49bb-a1b7-3d988f945c5e)
 
 CompVis/stable-diffusion-v1-4
-For this model, I focused on efficiency and clear scene generation. A great prompt I used was: "A serene lake surrounded by towering mountains under a golden sunset, with reflections in the water." This model is great for generating detailed visuals while being computationally efficient. It’s perfect for historical or fantasy-themed prompts, where I needed clear and well-defined imagery.
+For this model, I focused on efficiency and clear scene generation. A great prompt I used was: A bustling medieval marketplace with vendors, colorful stalls, and people in traditional attire." This model is great for generating detailed visuals while being computationally efficient. It’s perfect for historical or fantasy-themed prompts, where I needed clear and well-defined imagery.
 
 ![CompVis](https://github.com/user-attachments/assets/28dd0a7a-26cb-4277-978b-50be22607c89)
 
@@ -103,7 +103,7 @@ For anime-inspired visuals, I focused on creating detailed characters. A prompt 
 
 ![hakurei](https://github.com/user-attachments/assets/cc790420-b2c5-47bc-a7d4-28b1d02e1184)
 
-the key to consistently achieving the best results was to be as specific as possible with the prompts. so made sure to include detailed descriptions of characters, environments, and lighting to guide the model in creating the most accurate images.
+the key to consistently achieving the best results was to be as specific as possible with the prompts. so made sure to include detailed descriptions of characters, environments, and lighting to guide the model in creating the most accurate images.the more detailed prompts the more accurate image will generate.
 
 ## Conclusion 🎨
 
