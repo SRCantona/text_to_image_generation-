@@ -103,7 +103,7 @@ For anime-inspired visuals, I focused on creating detailed characters. A prompt 
 
 ![hakurei](https://github.com/user-attachments/assets/cc790420-b2c5-47bc-a7d4-28b1d02e1184)
 
-the key to consistently achieving the best results was to be as specific as possible with the prompts. so made sure to include detailed descriptions of characters, environments, and lighting to guide the model in creating the most accurate images.the more detailed prompts the more accurate image will generate.
+the key to consistently achieving the best results was to be as specific as possible with the prompts. so make sure to include detailed descriptions of characters, environments, and lighting to guide the model in creating the most accurate images. the more detailed prompts the more accurate image will generate.
 
 ## Conclusion 🎨
 
